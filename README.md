@@ -1,10 +1,10 @@
 # 🚀 100 Days of Code
 
-Welcome to my 100 Days of Code challenge! This repository documents my journey as I improve my JavaScript and frontend development skills by building projects every day.
+Welcome to my 100 Days of Code challenge! This repository documents my journey as I improve my JavaScript and frontend development skills by understanding concepts and building projects progressively
 
 ## Goals
 
-- Build consistently for 100 days
+- Build and learn consistently for 100 days
 - Master JavaScript
 - Learn Git & GitHub
 - Build a strong portfolio
@@ -13,7 +13,8 @@ Welcome to my 100 Days of Code challenge! This repository documents my journey a
 ## Projects
 
 DAY 1  Counter App  ✅ 
-DAY 2  Coming Soon  ⏳
+DAY 2  Functions-Fundamentals ✅ 
+
 
 ## Tech Stack
 
