@@ -66,11 +66,3 @@ function maxOfThree(a, b, c) {
 
 }
 console.log(maxOfThree(300, 300, 300))
-
-function calculator(a, b, operator){
-    if(a , b ){
-
-    }
-
-
-}
